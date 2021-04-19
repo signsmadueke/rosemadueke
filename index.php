@@ -1,13 +1,9 @@
 <?php
-    $title = "Get The Believer's Authority for Free";
+    $title = 'Get "The Believer&#39;s Authority" for Free';
     $tagline = "Rose Madueke, Evangelist that loves to teach and preach the love of Christ.";
-    $page_description = "Get The Believer's Authority by Rose Madueke for free.";
+    $page_description = 'Get "The Believer&#39;s Authority" by Rose Madueke for free.';
     $page_image = "rose/rose.jpg";
     $extraBodyClasses = '';
-
-// header("Location: https://rose.madueke.com");
-header("Location: http://localhost:8888/rosemadueke");
-exit();
 ?>
 
 <!DOCTYPE html>
