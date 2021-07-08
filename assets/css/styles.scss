@@ -4429,7 +4429,8 @@ body.sidebar-opened {
 			width: 100%;
 			height: auto;
 			max-width: 350px;
-			border: 1px solid rgba(0, 0, 0, 0.2);
+			border: 5px solid rgb(11 27 78);
+			border: solid;
 			border-radius: 350px;
 			filter: saturate(0);
 		}

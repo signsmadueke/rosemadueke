@@ -111,25 +111,6 @@ exit();
         <div class="content">
             <h3 class="animate reveal">Rose Madueke</h3>
             <p class="animate reveal">Rose Madueke is a wife, mother and evangelist that loves to teach and preach the love of Christ and how you can activate in your life through the power of prayer.<br><br>She and her husband Prayer Madueke lead Prayer Emancipation Missions Worldwide.<br><br>Besides preaching the Gospel & winning souls, Rose is also a Certified Nursing Assistant in New Jersey, USA. Her marriage with Prayer Madueke is blessed with five God-fearing children.</p>
-            <div id="social" class="animate reveal">
-                <ul>
-                    <li>
-                        <a href="https://facebook.com/prayermadueke">
-                            <img class="svg" src="assets/images/icons/social/facebook.svg" height="15px" alt="Facebook">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://instagram.com/prayermadueke">
-                            <img class="svg" src="assets/images/icons/social/instagram.svg" height="15px" alt="Instagram">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/prayermadueke">
-                            <img class="svg" src="assets/images/icons/social/twitter.svg" height="15px" alt="Twitter">
-                        </a>
-                    </li>
-                </ul>
-            </div>
         </div>
     </div>
 </section>
